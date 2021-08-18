@@ -1,7 +1,10 @@
 #include <iostream>
+#include "shape.h"
 
 int main()
-{
-    std::cout<<"Shape!"<<std::endl;
+{   
+    Shape sh;
+    
+    
     return 0;
 }
